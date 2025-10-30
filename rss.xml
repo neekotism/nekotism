@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>nekotism's blogs</title>
+    <link>http://nekotism.rocks/</link>
+    <description>Blog updates</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Oct 2025 22:00:00 +0900</lastBuildDate>
+    
+    <item>
+      <title>About this site</title>
+      <link>https://nekotism.rocks/blogs/about-this-site.html</link>
+      <description>A blog was posted.</description>
+      <pubDate>Wed, 29 Oct 2025 22:00:00 +0900</pubDate>
+    </item>
+
+  </channel>
+</rss>

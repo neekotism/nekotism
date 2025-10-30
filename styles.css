@@ -26,3 +26,7 @@ pre {
   margin-right: auto;
   width: 50%;
 }
+
+.gallery a > img {
+  border: 1px dashed #000;
+}

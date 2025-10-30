@@ -27,6 +27,6 @@ pre {
   width: 50%;
 }
 
-.gallery a > img {
+.gallery-container a > img {
   border: 1px dashed #000;
 }
